@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+venv/
+.python-version
+Results*
+Results/
+*.DS_Store
+*.log
+res*
